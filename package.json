@@ -1,0 +1,23 @@
+{
+  "name": "mithril-javascript-notes",
+  "version": "1.0.0",
+  "description": "* Heard about Mithril and thought I'd take a look",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stujo/mithril-javascript-notes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stujo/mithril-javascript-notes/issues"
+  },
+  "homepage": "https://github.com/stujo/mithril-javascript-notes#readme",
+  "devDependencies": {
+    "eslint": "^3.12.1",
+    "eslint-plugin-react": "^6.8.0"
+  }
+}
