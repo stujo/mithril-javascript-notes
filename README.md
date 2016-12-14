@@ -8,7 +8,8 @@
 * Has some kind of MVC concept 
 
 # Experiments
-* [hello_world](./hello_world)
+* [Getting Started : hello_world](./hello_world)
+* [Routing : planet_routes](./planet_routes)
 
 ## Resources
 * [http://mithril.js.org/getting-started.html](http://mithril.js.org/getting-started.html)
